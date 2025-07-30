@@ -14,8 +14,6 @@ import math
 def get_pi():
     """
     A simple function that just returns the value of Pi.
-    We created a function for this to follow the user's request of only using
-    the 'math' module for Pi and nothing else inside the calculation functions.
     """
     return math.pi
 
